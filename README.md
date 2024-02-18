@@ -1,1 +1,1 @@
-# A really simple "Is Even" app, type in a number and it "poops" out if an number is even!
+# A really simple "Is Even" app, type in a number and it shows if an number is even!
