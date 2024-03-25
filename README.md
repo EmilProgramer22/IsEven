@@ -1,6 +1,6 @@
 # A really simple "Is Even" app.
 It works like this: type in a number and it shows if an number is even!
-I have an the code here: 
+I even have the code here: 
 ```
 # First we define the numbers. In this case it's a not even number.
 
